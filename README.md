@@ -1,5 +1,5 @@
 # GLSRelyData
-JOURNAL PUBLICATION CITATION: Schoolmaster Jr, D. R., C. R. Zirbel, and J. P. Cronin. 2021. A graphical causal model for resolving species identity effects and biodiversity–ecosystem function correlations: A reply to Grace, Loreau, and Schmid. Ecology.
+JOURNAL PUBLICATION CITATION: Schoolmaster Jr, D. R., C. R. Zirbel, and J. P. Cronin. 2021. A graphical causal model for resolving species identity effects and biodiversity–ecosystem function correlations: Reply. Ecology.
  
 Data S1
 
