@@ -18,11 +18,6 @@ James Patrick Cronin
 US Geological Survey, Wetland Aquatic Research Center, Lafayette, LA, USA
 jcronin@usgs.gov
 
-Data provided by:
-
-Juliette Chamagne
-Institute of Evolutionary Biology and Environmental Studies, University of Zurich, Winterthurerstrasse 190, CH‐8057 Zurich, Switzerland
-juliettechamagne@gmail.com
  
  
 File list (files found within DataS1.zip)
