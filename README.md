@@ -3,7 +3,7 @@ JOURNAL PUBLICATION CITATION: Schoolmaster Jr, D. R., C. R. Zirbel, and J. P. Cr
  
 Data S1
 
-Data resulting from running the code in GLS Appendix S2
+Data resulting from running the code in GLS Appendix S3
  
 Author(s) 
 Donald R. Schoolmaster Jr. 
