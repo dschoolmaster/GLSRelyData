@@ -196,7 +196,7 @@ sum(apply(c2_Q_Z,1,any))/1000
 
 #Let's check c1 and c2. They are non-adjacent in our list from step 1
 # {(c1-R),(c2-R),(c1-Q),(c2-Q)}. They share common neighbors R and Q.
-# Since neither R nor Q are not in the conditioning set that renders them
+# Since neither R nor Q are in the conditioning set that renders them
 # independent (i.e. the null set), we draw the arrows c1->R<-c2 and c1->Q<-c2.
 # (step 2 condition (b))
 
