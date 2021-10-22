@@ -26,8 +26,9 @@ Fdat.csv
 Fdat.Error.csv
  
 Description
+AppendixS1Code.R- R code shown in Box S1 of Appendix S1.
 
-AppendixS3Code.R- R code shown in Box S2 of Appendix S3.
+AppendixS3Code.R- R code shown in Box S3 of Appendix S3.
 
 GraceSimRecord.csv- A 200x20 matrix indicating the traits selected in each simulated plot.sample resulting from running the code in GLS Appendix S2.
 
