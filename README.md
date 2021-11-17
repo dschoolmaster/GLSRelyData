@@ -36,3 +36,4 @@ Fdat.Error.csv- A 10x20 matrix of the random errors added to the F.dat value for
 
 Fdat.csv= A 10x20 matrix of the final values simulated for F.dat for each plot resulting from running the code in GLS Appendix S2.
  
+ [![DOI](https://zenodo.org/badge/371050137.svg)](https://zenodo.org/badge/latestdoi/371050137)
